@@ -1,8 +1,5 @@
-// TODO - Implement your tests in this file using testlib functions
-
-/* Assignment M4PA
-File tests.c
-Student: [Angeline Dorvil] [U95528605]
+/*
+Student: [Angeline Dorvil] 
 Date: [11/10/2023]
 Features: [Creating test functions to check whether they need to be sorted]
 Bugs: [N/A]
