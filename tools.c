@@ -1,8 +1,5 @@
-// TODO - Implement the functions in this file
-
-/* Assignment M4PA
-File tools.c
-Student: [Angeline Dorvil] [U95528605]
+/* 
+Student: [Angeline Dorvil] 
 Date: [11/10/2023]
 Features: [Creating 2 functions to sort matrix and check if matrix was sorted accurately]
 Bugs: [N/A]
